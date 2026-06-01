@@ -60,7 +60,6 @@ function App() {
 
   return (
     <div className="portfolio" onClick={createFlower}>
-      {/* UPDATE: The src property now uses your imported sweetTimeAudio variable */}
       <audio ref={audioRef} loop src={sweetTimeAudio} type="audio/mpeg" />
 
       <video autoPlay muted loop className="video">
