@@ -13,7 +13,7 @@ const projects = [
   {
     title: "Train |or| Fail",
     image: "/sun1.jpg",
-    description: "A game I'm currently designer."
+    description: "A game I'm currently designing."
   },
   {
     title: "UI / UX",
@@ -87,7 +87,7 @@ const projects = [
          loop
 >
          <source
-          src="/sweettime.mp3"
+          src="/SweetTime.mp3"
         type="audio/mpeg"
          />
 </audio>
